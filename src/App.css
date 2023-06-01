@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  position: relative;
+  padding : 30px;
+  display: flex;
+  flex-direction: row;
+  padding-left : 15px;
+  background: #FFFFFF;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+}
+
+.collage{
+  position: relative;
+  padding: 26px 77px;
+  padding-bottom: 15px;
+  
+}
+
+.text{
+  position: relative;
+  text-align: left;
+  font-family: 'Poppins';
+  padding-left: 36px;
+  line-height: 1.25rem;
+  padding-bottom: 20px;
+}
+
+.text h1{
+  font-weight: 600;
+  font-size: 36px;
+}
+.text p{
+  font-size: 16px;
+  
+}
